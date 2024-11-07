@@ -49,8 +49,6 @@ The model architecture is built using a Convolutional Neural Network (CNN), whic
 3. **Flatten Layer**: To convert the 2D matrix into a 1D vector.
 4. **Dense Layers**: For final classification.
 
-You can find the model architecture details in `src/model.py`.
-
 ## Training the Model
 
 To train the model, follow these steps:
